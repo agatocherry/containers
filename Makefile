@@ -1,6 +1,6 @@
 # Variables
 
-NAME	=	test
+NAME	=	main
 CC		=	c++
 CFLAGS	=	-Werror -Wall -Wextra -g -c
 SRCS	=	main.cpp
